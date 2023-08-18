@@ -6,7 +6,7 @@
 <br>
 <br>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
+<img align="right" alt="coding" width="350" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarita-16&label=Profile%20views&color=0e75b6&style=flat" alt="sarita-16" /> </p>
 
