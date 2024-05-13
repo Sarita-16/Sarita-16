@@ -8,14 +8,15 @@
 
 <img align="right" alt="coding" width="350" height="270" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarita-16&label=Profile%20views&color=0e75b6&style=flat" alt="sarita-16" /> </p>
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Sarita-16&label=Profile%20Views&color=6&icon=0&pretty=true" />
+</a>
 
 - 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Sarita-16](https://github.com/Sarita-16)
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **JavaScript, Python, HTML, CSS**
 
 - 📫 How to reach me **saritamollah@gmail.com**
 
