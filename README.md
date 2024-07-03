@@ -29,7 +29,7 @@
 <h3 align="left">🌐 Socials:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/sarita-mollah-16-01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarita-mollah-16-01" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/sarita_m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarita_m/" height="30" width="40" /></a>
+  <a href="https://leetcode.com/u/Sarita_M/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/sarita_m/" height="30" width="40" /></a>
   <a href="https://twitter.com/mollahsarita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mollahsarita" height="30" width="40" /></a>
   <a href="https://instagram.com/s.k.mollah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.k.mollah" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/saritamollah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="saritamollah" height="30" width="40" /></a>
