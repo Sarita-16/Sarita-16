@@ -1,7 +1,7 @@
 ![logo](https://github.com/Sarita-16/Sarita-16/blob/main/banner.gif)
 
 <h1 align="center">Hello 👋, I'm Sarita Khatun Mollah</h1>
-<h3 align="center">Tech-savvy software engineer fresher with a strong programming background and a drive to learn quickly and contribute to cutting-edge projects through technical expertise and innovation.</h3>
+<h3 align="center">Software Engineer with 1 year of experience in a MNC, strong programming fundamentals, and hands-on exposure to enterprise systems. Passionate about continuous learning and building efficient, scalable solutions.</h3>
 
 <br>
 <br>
